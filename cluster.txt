@@ -1,0 +1,9 @@
+vscode-pat:
+
+dapifc1af2826a4cde62a0e0793478164bce-3
+
+Cluster URI:
+https://adb-5871049856170864.4.azuredatabricks.net/
+
+OAuth:
+o=5871049856170864
